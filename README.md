@@ -1,10 +1,6 @@
 # overview-of-lab
-This repository is an overview of the lab class of DIO
+This repository is an overview of the labs classes of DIO Microsoft - Azure AZ-900
 
-During the lab we seem:
-- How to configure the language and aparence of the Azure;
-- Categories of services that is possible to make in the Azure, as AI, analysis, containers, etc;
-- How to create some computers, like SAAS, performance, etc;
-- Netowrking like bastions, gateways, jump servers, DNS, firewall, etc;
+Every '.MD' archive has the documentation of every lab corresponded by your name.
 
-The creation of the free account microsoft Azure was made it too.
+The corresponded images will be in the assests directory.
